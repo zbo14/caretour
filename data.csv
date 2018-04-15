@@ -1,0 +1,13 @@
+CSN,MRN,Patient,Status,Gender,Birth Date,Pref Language,Mobile #,Pt. E-mail Address,Date,Appt Time,Appt Status,Department,Provider/Resource,Canc Date,Patient Class,Type,VT ID
+1445578838,1445578838,"Paudell, Max J",Alive,Female,4/10/64,English,333-333-3333,test1@gmail.com,4/14/18, 9:00 AM,Sch,PULM GRYBIG9,Doctor 1 ,,Outpatient,THORACENTESIS,100188
+1785578838,1785578838,"Vase, Jane A",Alive,Female,11/3/87,English,333-333-3334,test2@gmail.com,4/21/18, 9:00 AM,Sch,IP PULM GRYBIG9,Doctor 2,,Outpatient,FLEX BRONCH WITH BAL,100188
+1785578838,1785578838,"Vase, Jane A",Alive,Female,11/3/87,English,333-333-3334,test2@gmail.com,4/21/18, 11:00 AM,Sch,IP PULM GRYBIG9,Doctor 2,,Outpatient,PLEURX,100188
+5645578838,5645578838,"Quest, Dean L",,Female,4/14/85,French,333-333-3335,test3@gmail.com,3/15/18, 7:00 AM,Sch,IP PULM GRYBIG9,Doctor 3,,Outpatient,FLEX BRONCH WITH BAL,100188
+1445778838,1445778838,"Turston, Isaac A",Alive,Female,12/29/83,English,333-333-3336,test4@gmail.com,4/2/18,11:00 AM,Sch,IP PULM GRYBIG9,Doctor 4,,Outpatient,PLEURX,100188
+1449978838,1449978838,"Tammo, Juli S",Alive,Female,3/12/44,English,333-333-3337,test5@gmail.com,4/19/18, 9:00 AM,Sch,IP PULM GRYBIG9,Doctor 5,,Outpatient,FLEX BRONCH WITH BAL,100188
+2445578838,2445578838,"Bennett, Katrina",Alive,Male,10/30/61,Haitian-Creole,333-333-3338,test6@gmail.com,4/10/18, 9:30 AM,Sch,IP PULM GRYBIG9,Doctor 6,,Outpatient,FLEX BRONCH WITH BAL,100188
+2345578838,2345578838,"Jones, Mark L ",,Female,5/8/85,English,333-333-3339,test7@gmail.com,3/14/18, 7:00 AM,Sch,IP PULM GRYBIG9,Doctor 7,,Outpatient,FLEX BRONCH WITH BAL,100188
+1455578838,1455578838,"Smith, John",Alive,Male,12/24/54,English,333-333-3340,test8@gmail.com,4/21/18, 2:00 PM,Sch,IP PULM GRYBIG9,Doctor 8,,Outpatient,THORACENTESIS,100188
+3445578838,3445578838,"Lee, Annie K ",Alive,Female,12/15/91,Spanish,333-333-3341,test9@gmail.com,3/15/18,12:30 PM,Sch,IP PULM GRYBIG9,Doctor 9,,Outpatient,FLEX BRONCH WITH BAL,100188
+1645578838,1645578838,"Smith, Amy F ",Alive,Male,8/11/61,English,333-333-3342,test10@gmail.com,4/16/18,12:30 PM,Sch,IP PULM GRYBIG9,Doctor 10,,Outpatient,PLEURX,100188
+1455578838,1455578838,"Smith, John",Alive,Male,12/24/54,English,333-333-3340,test8@gmail.com,4/22/18, 4:00 PM,Sch,IP PULM GRYBIG9,Doctor 8,,Outpatient,FLEX BRONCH WITH BAL,100188
